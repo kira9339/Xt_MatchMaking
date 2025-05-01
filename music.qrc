@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/start_music">
+        <file>GameMusic/start_music.mp3</file>
+        <file>GameMusic/game_music.mp3</file>
+        <file>GameMusic/move.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>gamepic/backpic.png</file>
+        <file>game_background.jpg</file>
+        <file>C:/Users/84791/Desktop/my_pic/bottom.png</file>
+        <file>C:/Users/84791/Desktop/my_pic/button_1.png</file>
+        <file>C:/Users/84791/Desktop/my_pic/dialogbox.png</file>
+        <file>C:/Users/84791/Desktop/my_pic/edit.png</file>
+        <file>C:/Users/84791/Desktop/my_pic/menu.png</file>
+        <file>C:/Users/84791/Desktop/my_pic/record.png</file>
+        <file>C:/Users/84791/Desktop/my_pic/record_rank.png</file>
+        <file>C:/Users/84791/Desktop/my_pic/revive.png</file>
+        <file>ren.png</file>
+        <file>sanyueqi.png</file>
+        <file>jingyuan.png</file>
+        <file>kafuka.png</file>
+        <file>lajitong.png</file>
+        <file>gamepic/bottom.png</file>
+        <file>gamepic/button_1.png</file>
+        <file>gamepic/dialogbox.png</file>
+        <file>gamepic/edit.png</file>
+        <file>gamepic/menu.png</file>
+        <file>gamepic/record.png</file>
+        <file>gamepic/record_rank.png</file>
+        <file>gamepic/revive.png</file>
+        <file>gamepic/mask.png</file>
+        <file>gamepic/score.png</file>
+        <file>gamepic/bottom widget classic.png</file>
+        <file>gamepic/start_button_plus.png</file>
+        <file>C:/Users/84791/Desktop/yuzhoudachaofan.png</file>
+        <file>gamepic/yuzhoudachaofan.png</file>
+        <file>gamepic/danheng.png</file>
+        <file>gamepic/jy.png</file>
+        <file>gamepic/lie_che.png</file>
+    </qresource>
+</RCC>
